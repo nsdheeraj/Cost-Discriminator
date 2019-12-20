@@ -1,0 +1,1251 @@
+10-Jul-19  11:44:32 - Training data added to database
+10-Jul-19  11:56:16 - {'text': 'ok'} in response to {'search_text': 'ok'}
+10-Jul-19  11:56:27 - Beginning search for close text match
+10-Jul-19  11:56:27 - No value for search_text was available on the provided input
+10-Jul-19  11:56:27 - Processing search results
+10-Jul-19  11:56:27 - Using "{'search_text': 'hi'}" as a close match to "{'search_text': 'hi'}" with a confidence of 0
+10-Jul-19  11:56:27 - Selecting response from 93 optimal responses.
+10-Jul-19  11:56:27 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:56:27 - Response selected. Using "ok"
+10-Jul-19  11:56:27 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:56:27 - {'text': 'ok'} in response to {'search_text': 'hi'}
+10-Jul-19  11:56:39 - Beginning search for close text match
+10-Jul-19  11:56:39 - No value for search_text was available on the provided input
+10-Jul-19  11:56:39 - Processing search results
+10-Jul-19  11:56:39 - Using "{'search_text': 'ac'}" as a close match to "{'search_text': 'ac'}" with a confidence of 0
+10-Jul-19  11:56:39 - Selecting response from 93 optimal responses.
+10-Jul-19  11:56:39 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:56:39 - Response selected. Using "ok"
+10-Jul-19  11:56:39 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:56:39 - {'text': 'ok'} in response to {'search_text': 'ac'}
+10-Jul-19  11:57:22 - C:\Users\nuthalapativ\Desktop\chatbot\admin_assistant\chatapp\views.py changed, reloading.
+10-Jul-19  11:58:59 - {'text': 'ok'} in response to {'text': 'hey'}
+10-Jul-19  11:59:06 - Beginning search for close text match
+10-Jul-19  11:59:06 - No value for search_text was available on the provided input
+10-Jul-19  11:59:06 - Processing search results
+10-Jul-19  11:59:06 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:06 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:06 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:06 - Response selected. Using "ok"
+10-Jul-19  11:59:06 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:06 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:09 - Beginning search for close text match
+10-Jul-19  11:59:09 - No value for search_text was available on the provided input
+10-Jul-19  11:59:09 - Processing search results
+10-Jul-19  11:59:09 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:09 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:09 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:09 - Response selected. Using "ok"
+10-Jul-19  11:59:09 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:09 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:11 - Beginning search for close text match
+10-Jul-19  11:59:11 - No value for search_text was available on the provided input
+10-Jul-19  11:59:11 - Processing search results
+10-Jul-19  11:59:11 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:11 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:11 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:11 - Response selected. Using "ok"
+10-Jul-19  11:59:11 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:11 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:45 - C:\Users\nuthalapativ\Desktop\chatbot\admin_assistant\chatapp\views.py changed, reloading.
+10-Jul-19  12:00:37 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+10-Jul-19  12:00:48 - Beginning search for close text match
+10-Jul-19  12:00:48 - Processing search results
+10-Jul-19  12:00:48 - Similar text found: where should i inform that ac is damaged 0.32
+10-Jul-19  12:00:48 - Similar text found: i need to book a meeting room 0.54
+10-Jul-19  12:00:48 - Using "where should i inform that ac is damaged" as a close match to "i need to know about ac" with a confidence of 0.32
+10-Jul-19  12:00:48 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:48 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:48 - Response selected. Using "for air conditioner related issues please raise ticket $ ac"
+10-Jul-19  12:00:48 - BestMatch selected "for air conditioner related issues please raise ticket $ ac" as a response with a confidence of 0.32
+10-Jul-19  12:00:48 - Adding "i need to know about ac" as a response to "hi"
+10-Jul-19  12:00:48 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'i need to know about ac'}
+10-Jul-19  12:00:53 - Beginning search for close text match
+10-Jul-19  12:00:53 - Processing search results
+10-Jul-19  12:00:53 - Similar text found: Thank you. 0.95
+10-Jul-19  12:00:53 - Similar text found: thank you 1.0
+10-Jul-19  12:00:53 - Using "thank you" as a close match to "thank you" with a confidence of 1.0
+10-Jul-19  12:00:53 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:53 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:53 - Response selected. Using "welcome"
+10-Jul-19  12:00:53 - BestMatch selected "welcome" as a response with a confidence of 1.0
+10-Jul-19  12:00:53 - Adding "thank you" as a response to "i need to know about ac"
+10-Jul-19  12:00:53 - {'text': 'welcome'} in response to {'text': 'thank you'}
+10-Jul-19  12:00:54 - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 742, in __hash__
+    return self._hash
+AttributeError: _hash
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 730, in _cparts
+    return self._cached_cparts
+AttributeError: _cached_cparts
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+10-Jul-19  12:00:54 - Exception closing connection <sqlite3.Connection object at 0x00000219264008F0>
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 742, in __hash__
+    return self._hash
+AttributeError: _hash
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 730, in _cparts
+    return self._cached_cparts
+AttributeError: _cached_cparts
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 342, in _close_connection
+    self._dialect.do_close(connection)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 492, in do_close
+    dbapi_connection.close()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+10-Jul-19  12:00:58 - Beginning search for close text match
+10-Jul-19  12:00:58 - Processing search results
+10-Jul-19  12:00:58 - Similar text found: bye 1.0
+10-Jul-19  12:00:58 - Using "bye" as a close match to "bye" with a confidence of 1.0
+10-Jul-19  12:00:58 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:58 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:58 - Response selected. Using "bye have a nice day"
+10-Jul-19  12:00:58 - BestMatch selected "bye have a nice day" as a response with a confidence of 1.0
+10-Jul-19  12:00:58 - Adding "bye" as a response to "thank you"
+10-Jul-19  12:00:58 - {'text': 'bye have a nice day'} in response to {'text': 'bye'}
+10-Jul-19  12:01:05 - Beginning search for close text match
+10-Jul-19  12:01:05 - Processing search results
+10-Jul-19  12:01:05 - Similar text found: dust bin is full 1.0
+10-Jul-19  12:01:05 - Using "dust bin is full" as a close match to "dust bin is full" with a confidence of 1.0
+10-Jul-19  12:01:05 - Selecting response from 1 optimal responses.
+10-Jul-19  12:01:05 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:01:05 - Response selected. Using "for work station related issues please raise ticket $ hk"
+10-Jul-19  12:01:05 - BestMatch selected "for work station related issues please raise ticket $ hk" as a response with a confidence of 1.0
+10-Jul-19  12:01:05 - Adding "dust bin is full" as a response to "bye"
+10-Jul-19  12:01:05 - {'text': 'for work station related issues please raise ticket ', 'url': 'hk'} in response to {'text': 'dust bin is full'}
+10-Jul-19  12:01:13 - Beginning search for close text match
+10-Jul-19  12:01:13 - Processing search results
+10-Jul-19  12:01:13 - Similar text found: dust bin is full 0.48
+10-Jul-19  12:01:13 - Using "dust bin is full" as a close match to "empty my dust bin" with a confidence of 0.48
+10-Jul-19  12:01:13 - Selecting response from 1 optimal responses.
+10-Jul-19  12:01:13 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:01:13 - Response selected. Using "for work station related issues please raise ticket $ hk"
+10-Jul-19  12:01:13 - BestMatch selected "for work station related issues please raise ticket $ hk" as a response with a confidence of 0.48
+10-Jul-19  12:01:13 - Adding "empty my dust bin" as a response to "dust bin is full"
+10-Jul-19  12:01:13 - {'text': 'for work station related issues please raise ticket ', 'url': 'hk'} in response to {'text': 'empty my dust bin'}
+11-Jul-19  11:16:05 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+11-Jul-19  11:16:13 - Beginning search for close text match
+11-Jul-19  11:16:13 - Processing search results
+11-Jul-19  11:16:13 - Similar text found: request for air conditioner support 0.11
+11-Jul-19  11:16:13 - Similar text found: ac support 0.33
+11-Jul-19  11:16:13 - Similar text found: ac 1.0
+11-Jul-19  11:16:13 - Using "ac" as a close match to "ac" with a confidence of 1.0
+11-Jul-19  11:16:13 - Selecting response from 1 optimal responses.
+11-Jul-19  11:16:13 - Selecting response with greatest number of occurrences.
+11-Jul-19  11:16:13 - Response selected. Using "for air conditioner related issues please raise ticket $ ac"
+11-Jul-19  11:16:13 - BestMatch selected "for air conditioner related issues please raise ticket $ ac" as a response with a confidence of 1.0
+11-Jul-19  11:16:13 - Adding "ac" as a response to "hi"
+11-Jul-19  11:16:13 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'ac'}
+02-Oct-19  11:43:41 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+02-Oct-19  11:45:53 - Beginning search for close text match
+02-Oct-19  11:45:53 - Processing search results
+02-Oct-19  11:45:53 - Similar text found: i need to book a meeting room 0.72
+02-Oct-19  11:45:53 - Using "i need to book a meeting room" as a close match to "i want to book a room" with a confidence of 0.72
+02-Oct-19  11:45:53 - Selecting response from 1 optimal responses.
+02-Oct-19  11:45:53 - Selecting response with greatest number of occurrences.
+02-Oct-19  11:45:53 - Response selected. Using "for room booking related facilities please raise ticket $ rb"
+02-Oct-19  11:45:53 - BestMatch selected "for room booking related facilities please raise ticket $ rb" as a response with a confidence of 0.72
+02-Oct-19  11:45:53 - Adding "i want to book a room" as a response to "hi"
+02-Oct-19  11:45:53 - {'text': 'for room booking related facilities please raise ticket ', 'url': 'rb'} in response to {'text': 'i want to book a room'}
+03-Oct-19  08:07:06 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi '}
+03-Oct-19  08:09:52 - /Users/dheerajsrivathsav/Downloads/chatterbot-chatbot--master-2/chatapp/extract_url.py changed, reloading.
+03-Oct-19  13:45:47 - Training data added to database
+03-Oct-19  13:47:11 - Training data added to database
+03-Oct-19  13:48:27 - Training data added to database
+03-Oct-19  13:51:20 - Training data added to database
+03-Oct-19  13:54:27 - Training data added to database
+03-Oct-19  13:56:30 - Training data added to database
+03-Oct-19  08:29:57 - {'text': 'Okay You can get it on Amazon for Rs.84999.00You can get it on Flipkart for Rs.89900You can get it on Bajaj Electronics for Rs. 99900.00', 'url': 'ac'} in response to {'text': 'Apple Iphone XS '}
+03-Oct-19  08:32:33 - /Users/dheerajsrivathsav/Downloads/chatterbot-chatbot--master-2/chatapp/aocd.py changed, reloading.
+03-Oct-19  14:06:52 - Training data added to database
+03-Oct-19  14:10:31 - Training data added to database
+03-Oct-19  14:20:13 - Training data added to database
+03-Oct-19  14:27:38 - Training data added to database
+03-Oct-19  14:31:05 - Training data added to database
+03-Oct-19  14:43:03 - Training data added to database
+03-Oct-19  17:36:45 - Training data added to database
+03-Oct-19  17:46:17 - Training data added to database
+03-Oct-19  17:53:51 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19  17:54:00 - Beginning search for close text match
+03-Oct-19  17:54:00 - Processing search results
+03-Oct-19  17:54:00 - Using "Apple" as a close match to "Apple" with a confidence of 0
+03-Oct-19  17:54:00 - 0. Excluding recent repeated response of "hi"
+03-Oct-19  17:54:00 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+03-Oct-19  17:54:00 - No responses found. Generating alternate response list.
+03-Oct-19  17:54:00 - No known response to the input was found. Selecting a random response.
+03-Oct-19  17:54:00 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19  17:54:00 - Adding "Apple" as a response to "hi"
+03-Oct-19  17:54:00 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Apple'}
+03-Oct-19  17:56:04 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py changed, reloading.
+03-Oct-19	 18:10:51 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple iPhone XS'}
+03-Oct-19	 18:11:20 - Beginning search for close text match
+03-Oct-19	 18:11:20 - Processing search results
+03-Oct-19	 18:11:20 - Similar text found: Apple Airpods 1.0
+03-Oct-19	 18:11:20 - Using "Apple Airpods" as a close match to "Apple Airpods" with a confidence of 1.0
+03-Oct-19	 18:11:20 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:11:20 - Selecting response from 1 optimal responses.
+03-Oct-19	 18:11:20 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:11:20 - Response selected. Using "Okay $ ac"
+03-Oct-19	 18:11:20 - BestMatch selected "Okay $ ac" as a response with a confidence of 1.0
+03-Oct-19	 18:11:20 - Adding "Apple Airpods" as a response to "Apple iPhone XS"
+03-Oct-19	 18:11:20 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple Airpods'}
+03-Oct-19  18:13:15 - Training data added to database
+03-Oct-19	 18:13:41 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple iPhone XS'}
+03-Oct-19	 18:17:25 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Apple iPhone XS'}
+03-Oct-19	 18:17:33 - Beginning search for close text match
+03-Oct-19	 18:17:33 - Processing search results
+03-Oct-19	 18:17:33 - Similar text found: request for air conditioner support 0.11
+03-Oct-19	 18:17:33 - Similar text found: ac support 0.33
+03-Oct-19	 18:17:33 - Similar text found: ac 1.0
+03-Oct-19	 18:17:33 - Using "ac" as a close match to "ac" with a confidence of 1.0
+03-Oct-19	 18:17:33 - 0. Excluding recent repeated response of "Apple iPhone XS"
+03-Oct-19	 18:17:33 - 1. Excluding recent repeated response of "Okay $ ac"
+03-Oct-19	 18:17:33 - Selecting response from 16 optimal responses.
+03-Oct-19	 18:17:33 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:17:33 - Response selected. Using "for air conditioner related issues please raise ticket $ ac"
+03-Oct-19	 18:17:33 - BestMatch selected "for air conditioner related issues please raise ticket $ ac" as a response with a confidence of 1.0
+03-Oct-19	 18:17:33 - Adding "ac" as a response to "Apple iPhone XS"
+03-Oct-19	 18:17:33 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'ac'}
+03-Oct-19	 18:17:37 - Beginning search for close text match
+03-Oct-19	 18:17:37 - Processing search results
+03-Oct-19	 18:17:37 - Similar text found: Hello 1.0
+03-Oct-19	 18:17:37 - Using "Hello" as a close match to "hello" with a confidence of 1.0
+03-Oct-19	 18:17:37 - 0. Excluding recent repeated response of "Apple iPhone XS"
+03-Oct-19	 18:17:37 - 1. Excluding recent repeated response of "Okay $ ac"
+03-Oct-19	 18:17:37 - Selecting response from 32 optimal responses.
+03-Oct-19	 18:17:37 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:17:37 - Response selected. Using "hey user welcome to virtusa how can i help you"
+03-Oct-19	 18:17:37 - BestMatch selected "hey user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 18:17:37 - Adding "hello" as a response to "ac"
+03-Oct-19	 18:17:37 - {'text': 'hey user welcome to virtusa how can i help you'} in response to {'text': 'hello'}
+03-Oct-19	 18:17:45 - Beginning search for close text match
+03-Oct-19	 18:17:45 - Processing search results
+03-Oct-19	 18:17:45 - Using "Apple Airpodes" as a close match to "Apple Airpodes" with a confidence of 0
+03-Oct-19	 18:17:46 - No responses found. Generating alternate response list.
+03-Oct-19	 18:17:46 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 18:17:46 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 18:17:46 - Adding "Apple Airpodes" as a response to "hello"
+03-Oct-19	 18:17:46 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Apple Airpodes'}
+03-Oct-19	 18:17:53 - Beginning search for close text match
+03-Oct-19	 18:17:53 - Processing search results
+03-Oct-19	 18:17:53 - Similar text found: Apple Airpods 1.0
+03-Oct-19	 18:17:53 - Using "Apple Airpods" as a close match to "Apple Airpods" with a confidence of 1.0
+03-Oct-19	 18:17:53 - Selecting response from 1 optimal responses.
+03-Oct-19	 18:17:53 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:17:53 - Response selected. Using "Okay $ ac"
+03-Oct-19	 18:17:53 - BestMatch selected "Okay $ ac" as a response with a confidence of 1.0
+03-Oct-19	 18:17:53 - Adding "Apple Airpods" as a response to "Apple Airpodes"
+03-Oct-19	 18:17:53 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple Airpods'}
+03-Oct-19	 18:18:03 - Beginning search for close text match
+03-Oct-19	 18:18:03 - Processing search results
+03-Oct-19	 18:18:03 - Similar text found: Apple iPhone XS 1.0
+03-Oct-19	 18:18:03 - Using "Apple iPhone XS" as a close match to "Apple iPhone XS" with a confidence of 1.0
+03-Oct-19	 18:18:03 - Selecting response from 10 optimal responses.
+03-Oct-19	 18:18:03 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:18:03 - Response selected. Using "Okay $ ac"
+03-Oct-19	 18:18:03 - BestMatch selected "Okay $ ac" as a response with a confidence of 1.0
+03-Oct-19	 18:18:03 - Adding "Apple iPhone XS" as a response to "Apple Airpods"
+03-Oct-19	 18:18:03 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple iPhone XS'}
+03-Oct-19	 18:19:15 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py changed, reloading.
+03-Oct-19	 18:19:15 - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 68716 and this is thread id 33160.
+03-Oct-19	 18:19:15 - Exception closing connection <sqlite3.Connection object at 0x00000246AEA41030>
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 68716 and this is thread id 33160.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 342, in _close_connection
+    self._dialect.do_close(connection)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 492, in do_close
+    dbapi_connection.close()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 68716 and this is thread id 33160.
+03-Oct-19	 18:23:18 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:23:27 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 41, in post
+    x=aocd.AOCD(input_data)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 18, in AOCD
+    my_a_url = Links.Amazon[productSearch]
+TypeError: unhashable type: 'dict'
+03-Oct-19	 18:24:31 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+03-Oct-19	 18:25:00 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'h'}
+03-Oct-19	 18:25:02 - Beginning search for close text match
+03-Oct-19	 18:25:02 - Processing search results
+03-Oct-19	 18:25:02 - Similar text found: Hi 1.0
+03-Oct-19	 18:25:03 - Using "Hi" as a close match to "hi" with a confidence of 1.0
+03-Oct-19	 18:25:03 - Selecting response from 32 optimal responses.
+03-Oct-19	 18:25:03 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:25:03 - Response selected. Using "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 18:25:03 - BestMatch selected "Hello user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 18:25:03 - Adding "hi" as a response to "h"
+03-Oct-19	 18:25:03 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:25:13 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 41, in post
+    x=aocd.AOCD(input_data)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 48, in AOCD
+    my_a_url = Amazon[productSearch]
+TypeError: unhashable type: 'dict'
+03-Oct-19	 18:26:58 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+03-Oct-19	 18:32:30 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:34:26 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py changed, reloading.
+03-Oct-19	 18:37:51 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'hi'}
+03-Oct-19	 18:37:56 - Beginning search for close text match
+03-Oct-19	 18:37:56 - Processing search results
+03-Oct-19	 18:37:56 - Similar text found: Hi 1.0
+03-Oct-19	 18:37:56 - Using "Hi" as a close match to "hi" with a confidence of 1.0
+03-Oct-19	 18:37:56 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:37:56 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 18:37:56 - No responses found. Generating alternate response list.
+03-Oct-19	 18:37:56 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 18:37:56 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 18:37:56 - Adding "hi" as a response to "hi"
+03-Oct-19	 18:37:56 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'hi'}
+03-Oct-19	 18:37:59 - Beginning search for close text match
+03-Oct-19	 18:37:59 - Processing search results
+03-Oct-19	 18:37:59 - Similar text found: Hello 1.0
+03-Oct-19	 18:37:59 - Using "Hello" as a close match to "hello" with a confidence of 1.0
+03-Oct-19	 18:37:59 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:38:00 - Selecting response from 32 optimal responses.
+03-Oct-19	 18:38:00 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:38:00 - Response selected. Using "hey user welcome to virtusa how can i help you"
+03-Oct-19	 18:38:00 - BestMatch selected "hey user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 18:38:00 - Adding "hello" as a response to "hi"
+03-Oct-19	 18:38:00 - {'text': 'hey user welcome to virtusa how can i help you'} in response to {'text': 'hello'}
+03-Oct-19	 18:38:03 - Beginning search for close text match
+03-Oct-19	 18:38:03 - Processing search results
+03-Oct-19	 18:38:03 - Similar text found: Hi 1.0
+03-Oct-19	 18:38:03 - Using "Hi" as a close match to "hi" with a confidence of 1.0
+03-Oct-19	 18:38:03 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:38:03 - Selecting response from 32 optimal responses.
+03-Oct-19	 18:38:03 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:38:04 - Response selected. Using "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 18:38:04 - BestMatch selected "Hello user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 18:38:04 - Adding "hi" as a response to "hello"
+03-Oct-19	 18:38:04 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:38:12 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 18:40:45 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py changed, reloading.
+03-Oct-19	 18:41:01 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:41:13 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 18:41:33 - Beginning search for close text match
+03-Oct-19	 18:41:33 - Processing search results
+03-Oct-19	 18:41:33 - Similar text found: Apple 1.0
+03-Oct-19	 18:41:33 - Using "Apple" as a close match to "Apple" with a confidence of 1.0
+03-Oct-19	 18:41:33 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:41:33 - No responses found. Generating alternate response list.
+03-Oct-19	 18:41:33 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 18:41:33 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 18:41:33 - Adding "Apple" as a response to "hi"
+03-Oct-19	 18:41:33 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Apple'}
+03-Oct-19	 18:41:41 - Beginning search for close text match
+03-Oct-19	 18:41:41 - Processing search results
+03-Oct-19	 18:41:41 - Similar text found: Apple Iphone XS 0.08
+03-Oct-19	 18:41:41 - Similar text found: Samsung Note 10+ 0.81
+03-Oct-19	 18:41:41 - Using "Apple Iphone XS" as a close match to "Samsung 10+" with a confidence of 0.08
+03-Oct-19	 18:41:41 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 18:41:41 - No responses found. Generating alternate response list.
+03-Oct-19	 18:41:41 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 18:41:41 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 18:41:41 - Adding "Samsung 10+" as a response to "Apple"
+03-Oct-19	 18:41:41 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Samsung 10+'}
+03-Oct-19	 18:41:59 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 50, in AOCD
+    my_b_url = st["Bajaj"][productSearch]
+KeyError: 'Samsung Note 10+'
+03-Oct-19	 18:42:44 - Beginning search for close text match
+03-Oct-19	 18:42:44 - Processing search results
+03-Oct-19	 18:42:44 - Similar text found: iPad air" 0.94
+03-Oct-19	 18:42:44 - Using "iPad air"" as a close match to "iPad air" with a confidence of 0.94
+03-Oct-19	 18:42:44 - Selecting response from 1 optimal responses.
+03-Oct-19	 18:42:44 - Selecting response with greatest number of occurrences.
+03-Oct-19	 18:42:44 - Response selected. Using "Okay $ ac"
+03-Oct-19	 18:42:44 - BestMatch selected "Okay $ ac" as a response with a confidence of 0.94
+03-Oct-19	 18:42:44 - Adding "iPad air" as a response to "Samsung 10+"
+03-Oct-19	 18:42:44 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'iPad air'}
+03-Oct-19	 18:42:53 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 50, in AOCD
+    my_b_url = st["Bajaj"][productSearch]
+KeyError: 'Macbook air'
+03-Oct-19	 18:43:32 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19  18:45:05 - Training data added to database
+03-Oct-19	 18:48:09 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Lenovo ideaPad'}
+03-Oct-19	 18:48:26 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 50, in AOCD
+    my_b_url = st["Bajaj"][productSearch]
+KeyError: 'Lenovo ideapad'
+03-Oct-19	 18:48:50 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 18:49:02 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 18:50:09 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple iPhone Xs'}
+03-Oct-19	 18:50:16 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 18:52:42 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 18:52:50 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 95, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 53, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+03-Oct-19	 23:31:51 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 23:32:03 - Beginning search for close text match
+03-Oct-19	 23:32:03 - Processing search results
+03-Oct-19	 23:32:03 - Similar text found: Apple iPhone XS 1.0
+03-Oct-19	 23:32:03 - Using "Apple iPhone XS" as a close match to "Apple iphone XS" with a confidence of 1.0
+03-Oct-19	 23:32:03 - 0. Excluding recent repeated response of "Okay $ ac"
+03-Oct-19	 23:32:03 - No responses found. Generating alternate response list.
+03-Oct-19	 23:32:03 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 23:32:03 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 23:32:03 - Adding "Apple iphone XS" as a response to "hi"
+03-Oct-19	 23:32:03 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Apple iphone XS'}
+03-Oct-19	 23:45:12 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+03-Oct-19	 23:45:46 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 23:45:55 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+TypeError: AOCD() missing 2 required positional arguments: 'my_f_url' and 'my_b_url'
+03-Oct-19	 23:46:42 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+03-Oct-19	 23:47:52 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'hi'}
+03-Oct-19	 23:47:55 - Beginning search for close text match
+03-Oct-19	 23:47:55 - Processing search results
+03-Oct-19	 23:47:55 - Similar text found: Hi 1.0
+03-Oct-19	 23:47:55 - Using "Hi" as a close match to "hi" with a confidence of 1.0
+03-Oct-19	 23:47:55 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 23:47:55 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 23:47:55 - No responses found. Generating alternate response list.
+03-Oct-19	 23:47:55 - No known response to the input was found. Selecting a random response.
+03-Oct-19	 23:47:55 - BestMatch selected "I am sorry, but I do not understand." as a response with a confidence of 0
+03-Oct-19	 23:47:55 - Adding "hi" as a response to "hi"
+03-Oct-19	 23:47:55 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'hi'}
+03-Oct-19	 23:47:58 - Beginning search for close text match
+03-Oct-19	 23:47:58 - Processing search results
+03-Oct-19	 23:47:58 - Similar text found: Hello 1.0
+03-Oct-19	 23:47:58 - Using "Hello" as a close match to "hello" with a confidence of 1.0
+03-Oct-19	 23:47:58 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 23:47:58 - 1. Excluding recent repeated response of "I am sorry, but I do not understand."
+03-Oct-19	 23:47:58 - Selecting response from 34 optimal responses.
+03-Oct-19	 23:47:58 - Selecting response with greatest number of occurrences.
+03-Oct-19	 23:47:58 - Response selected. Using "hey user welcome to virtusa how can i help you"
+03-Oct-19	 23:47:58 - BestMatch selected "hey user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 23:47:58 - Adding "hello" as a response to "hi"
+03-Oct-19	 23:47:58 - {'text': 'hey user welcome to virtusa how can i help you'} in response to {'text': 'hello'}
+03-Oct-19	 23:48:58 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+03-Oct-19	 23:50:25 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19  23:53:28 - Training data added to database
+03-Oct-19	 23:53:47 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19  23:57:53 - Training data added to database
+03-Oct-19	 23:58:46 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 23:59:33 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+03-Oct-19	 23:59:38 - Beginning search for close text match
+03-Oct-19	 23:59:38 - Processing search results
+03-Oct-19	 23:59:38 - Similar text found: hey 1.0
+03-Oct-19	 23:59:38 - Using "hey" as a close match to "hey" with a confidence of 1.0
+03-Oct-19	 23:59:38 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 23:59:38 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 23:59:38 - Selecting response from 4 optimal responses.
+03-Oct-19	 23:59:38 - Selecting response with greatest number of occurrences.
+03-Oct-19	 23:59:38 - Response selected. Using "Hello user welcome to A.O.C.D how can i help you"
+03-Oct-19	 23:59:38 - BestMatch selected "Hello user welcome to A.O.C.D how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 23:59:38 - Adding "hey" as a response to "hi"
+03-Oct-19	 23:59:38 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hey'}
+03-Oct-19	 23:59:42 - Beginning search for close text match
+03-Oct-19	 23:59:42 - Processing search results
+03-Oct-19	 23:59:42 - Similar text found: Hello 1.0
+03-Oct-19	 23:59:42 - Using "Hello" as a close match to "hello" with a confidence of 1.0
+03-Oct-19	 23:59:42 - 0. Excluding recent repeated response of "hi"
+03-Oct-19	 23:59:42 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+03-Oct-19	 23:59:42 - Selecting response from 39 optimal responses.
+03-Oct-19	 23:59:42 - Selecting response with greatest number of occurrences.
+03-Oct-19	 23:59:42 - Response selected. Using "hey user welcome to virtusa how can i help you"
+03-Oct-19	 23:59:42 - BestMatch selected "hey user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+03-Oct-19	 23:59:42 - Adding "hello" as a response to "hey"
+03-Oct-19	 23:59:42 - {'text': 'hey user welcome to virtusa how can i help you'} in response to {'text': 'hello'}
+04-Oct-19	 00:03:23 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:03:27 - Beginning search for close text match
+04-Oct-19	 00:03:27 - Processing search results
+04-Oct-19	 00:03:27 - Similar text found: Hi 1.0
+04-Oct-19	 00:03:27 - Using "Hi" as a close match to "hi" with a confidence of 1.0
+04-Oct-19	 00:03:27 - 0. Excluding recent repeated response of "hi"
+04-Oct-19	 00:03:27 - Selecting response from 40 optimal responses.
+04-Oct-19	 00:03:27 - Selecting response with greatest number of occurrences.
+04-Oct-19	 00:03:29 - Response selected. Using "Hello user welcome to virtusa how can i help you"
+04-Oct-19	 00:03:29 - BestMatch selected "Hello user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+04-Oct-19	 00:03:29 - Adding "hi" as a response to "hi"
+04-Oct-19	 00:03:29 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:03:32 - Beginning search for close text match
+04-Oct-19	 00:03:32 - Processing search results
+04-Oct-19	 00:03:32 - Similar text found: Hello 1.0
+04-Oct-19	 00:03:32 - Using "Hello" as a close match to "hello" with a confidence of 1.0
+04-Oct-19	 00:03:32 - 0. Excluding recent repeated response of "hi"
+04-Oct-19	 00:03:32 - Selecting response from 40 optimal responses.
+04-Oct-19	 00:03:32 - Selecting response with greatest number of occurrences.
+04-Oct-19	 00:03:32 - Response selected. Using "hey user welcome to virtusa how can i help you"
+04-Oct-19	 00:03:32 - BestMatch selected "hey user welcome to virtusa how can i help you" as a response with a confidence of 1.0
+04-Oct-19	 00:03:32 - Adding "hello" as a response to "hi"
+04-Oct-19	 00:03:32 - {'text': 'hey user welcome to virtusa how can i help you'} in response to {'text': 'hello'}
+04-Oct-19	 00:10:11 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:10:38 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 18, in AOCD
+    my_b_url = Links.Bajaj[productSearch]
+KeyError: 'Samsung Note 10+'
+04-Oct-19	 00:11:09 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 18, in AOCD
+    my_b_url = Links.Bajaj[productSearch]
+KeyError: 'Apple smartwatch'
+04-Oct-19	 00:12:21 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\Links.py changed, reloading.
+04-Oct-19	 00:13:01 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:13:41 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 68, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 32, in Az
+    priceA = priceA.text
+AttributeError: 'NoneType' object has no attribute 'text'
+04-Oct-19	 00:15:40 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:15:50 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 68, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 23, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+04-Oct-19	 00:17:12 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:17:57 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:18:05 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 69, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 23, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+04-Oct-19	 00:20:08 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:21:01 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:21:47 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:23:15 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:23:46 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:24:13 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:24:24 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 69, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 23, in Az
+    uAClient = uReq(my_a_url)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 563, in error
+    result = self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 755, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 641, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 503, in _call_chain
+    result = func(*args)
+  File "C:\Users\manis\Anaconda3\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 503: Service Unavailable
+04-Oct-19	 00:24:49 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:29:13 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:29:21 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 73, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 25, in Az
+    opener = urllib2.build_opener()
+NameError: name 'urllib2' is not defined
+04-Oct-19	 00:29:46 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:31:46 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:31:58 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 73, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 25, in Az
+    opener = urllib.build_opener()
+NameError: name 'urllib' is not defined
+04-Oct-19	 00:32:49 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:34:59 - {'text': 'I am sorry, but I do not understand.'} in response to {'text': 'Samsung 10+'}
+04-Oct-19	 00:35:17 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 74, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 38, in Az
+    priceA = priceA.text
+AttributeError: 'NoneType' object has no attribute 'text'
+04-Oct-19	 00:36:32 - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5076 and this is thread id 70832.
+04-Oct-19	 00:36:32 - Exception closing connection <sqlite3.Connection object at 0x000001F92DB0FC70>
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5076 and this is thread id 70832.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\pool.py", line 342, in _close_connection
+    self._dialect.do_close(connection)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 492, in do_close
+    dbapi_connection.close()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 5076 and this is thread id 70832.
+04-Oct-19	 00:37:00 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:37:25 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 74, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 38, in Az
+    priceA = priceA.text
+AttributeError: 'NoneType' object has no attribute 'text'
+04-Oct-19	 00:37:45 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:42:57 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:43:13 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\manis\Anaconda3\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 74, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py", line 35, in Az
+    page_a_soup = soup(html_contents, "html.parser",verify=False) #Parsing the webpage
+  File "C:\Users\manis\Anaconda3\lib\site-packages\bs4\__init__.py", line 183, in __init__
+    "__init__() got an unexpected keyword argument '%s'" % arg)
+TypeError: __init__() got an unexpected keyword argument 'verify'
+04-Oct-19	 00:43:23 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+04-Oct-19	 00:43:41 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+04-Oct-19	 00:43:48 - Beginning search for close text match
+04-Oct-19	 00:43:48 - Processing search results
+04-Oct-19	 00:43:48 - Similar text found: Apple iPhone XS 0.89
+04-Oct-19	 00:43:48 - Using "Apple iPhone XS" as a close match to "Apple iPhone" with a confidence of 0.89
+04-Oct-19	 00:43:48 - 0. Excluding recent repeated response of "hi"
+04-Oct-19	 00:43:48 - 1. Excluding recent repeated response of "Hello user welcome to virtusa how can i help you"
+04-Oct-19	 00:43:48 - Selecting response from 10 optimal responses.
+04-Oct-19	 00:43:48 - Selecting response with greatest number of occurrences.
+04-Oct-19	 00:43:48 - Response selected. Using "Okay $ ac"
+04-Oct-19	 00:43:48 - BestMatch selected "Okay $ ac" as a response with a confidence of 0.89
+04-Oct-19	 00:43:48 - Adding "Apple iPhone" as a response to "hi"
+04-Oct-19	 00:43:48 - {'text': 'Okay ', 'url': 'ac'} in response to {'text': 'Apple iPhone '}
+04-Oct-19	 00:44:14 - C:\Users\manis\Documents\chatterbot-chatbot--master-2\chatapp\aocd.py changed, reloading.
+15-Oct-19	 12:31:20 - {'text': 'Hello user welcome to A.O.C.D how can i help you'} in response to {'text': 'hi'}
+15-Oct-19	 12:31:40 - Internal Server Error: /api/chatterbot/
+Traceback (most recent call last):
+  File "/Users/dheerajsrivathsav/miniconda3/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/dheerajsrivathsav/miniconda3/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/dheerajsrivathsav/miniconda3/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/dheerajsrivathsav/miniconda3/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/dheerajsrivathsav/miniconda3/lib/python3.7/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/dheerajsrivathsav/Downloads/Cost-Descriminator-master-3/chatapp/views.py", line 42, in post
+    x=aocd.AOCD(input_data['text'])
+  File "/Users/dheerajsrivathsav/Downloads/Cost-Descriminator-master-3/chatapp/aocd.py", line 74, in AOCD
+    A = Az(my_a_url,Platforms)
+  File "/Users/dheerajsrivathsav/Downloads/Cost-Descriminator-master-3/chatapp/aocd.py", line 38, in Az
+    priceA = priceA.text
+AttributeError: 'NoneType' object has no attribute 'text'

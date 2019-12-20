@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Chatapp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link rel="stylesheet" href="https://unpkg.com/botui/build/botui.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/botui/build/botui-theme-default.css" />
+    <link rel="stylesheet" href="{% static 'css/chatbot.css'%}" type="text/css">
+  </head>
+  <body>
+        <img src="{% static 'images/arrow.jpg'%}" class="arrow" id="arrow_id">
+        <img src="{% static 'images/admin_assistant.png'%}" id="chat_img">
+        <div id="chatbot">
+            <div id="d1">
+                <p>Dheeraj Bot</p>
+                <ion-icon name="close" class="close" onclick="this.parentNode.parentNode.style.display='none'; document.getElementById('arrow_id').style.display='block'"></ion-icon>
+                <ion-icon name="refresh" class="refresh" ></ion-icon>
+            </div>
+            <div id="chat">
+                    <div id="my-botui-app">
+                            <bot-ui id="bot"></bot-ui>
+                    </div>
+            </div>
+            <div id="textmessage">
+                    <form method="post" id="form">
+                        {% csrf_token %}
+                        <input class="textbox" id="textbox" type="text" placeholder="Type a message here ...">
+                        <ion-icon name="send" class="send_btn" id="send_btn" method="get" onclick="ex_func(event)"></ion-icon>
+                    </form>
+            </div>
+        </div>
+        <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+        <script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
+         <script src="https://unpkg.com/botui/build/botui.js"></script>
+        <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+         <script src="{% static 'js/cookie.js' %}"></script>
+    <script src="{%static 'js/chatbot1.js'%}"></script>
+  </body>
+</html>
